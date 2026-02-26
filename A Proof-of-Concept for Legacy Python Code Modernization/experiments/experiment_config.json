@@ -1,0 +1,8 @@
+{
+  "reasoning_levels": [
+    "none",
+    "medium",
+    "xhigh"
+  ],
+  "model": "gpt-5.2"
+}

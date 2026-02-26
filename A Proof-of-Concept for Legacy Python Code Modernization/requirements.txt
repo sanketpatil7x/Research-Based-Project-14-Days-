@@ -1,0 +1,9 @@
+openai
+python-dotenv
+radon
+flake8
+matplotlib
+reportlab
+pylint
+pandas
+astor
